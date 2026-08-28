@@ -1,4 +1,4 @@
-# Sign Language / Gesture Recognition (Pretrained — No Training Needed)
+# Sign Language recognition
  
 **Intern ID:** CITS8352
 **NAME:** SHREYAS
