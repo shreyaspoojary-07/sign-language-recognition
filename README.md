@@ -5,6 +5,22 @@
 **Number of Weeks:** 4
 **Project Name:** Sign language Recognition
 
+**Project Scope**
+Capture live video through a webcam.
+Detect a user's hand using MediaPipe.
+Recognize basic gestures such as:
+✊ Fist
+✋ Open Palm
+☝️ Pointing Up
+👍 Thumbs Up
+👎 Thumbs Down
+✌️ Victory
+🤟 I Love You (ASL)
+Display the recognized gesture and confidence level on the screen.
+Show hand landmarks on the live video.
+Provide a simple, user-friendly web interface using Flask.
+
+
 A real-time hand gesture recognition web app using **Google's pretrained MediaPipe
 Gesture Recognizer** model. No data collection, no training — it works the moment
 you download the model file.
