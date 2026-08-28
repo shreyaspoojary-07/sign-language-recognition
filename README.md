@@ -1,4 +1,9 @@
 # Sign Language / Gesture Recognition (Pretrained — No Training Needed)
+ 
+**Intern ID:** CITS8352
+**NAME:** SHREYAS
+**Number of Weeks:** 4
+**Project Name:** Sign language Recognition
 
 A real-time hand gesture recognition web app using **Google's pretrained MediaPipe
 Gesture Recognizer** model. No data collection, no training — it works the moment
